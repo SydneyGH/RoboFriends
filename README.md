@@ -1,5 +1,5 @@
 # RoboFriends
-A simple tool built using React, where you can search though a group of friends.
+A simple tool built using React, where you can search through a group of friends.
 
 <!--## Table of Contents -->
 
