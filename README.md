@@ -1,5 +1,5 @@
 # RoboFriends
-A simple tool built using Javascript that helps you find the perfect background color.
+A simple tool built using React, where you can search though a group of friends.
 
 <!--## Table of Contents -->
 
